@@ -1,0 +1,5 @@
+/Users/Em/Projects/DepartmentManager/DepartmentManager/obj/x86/Debug/.NETFramework,Version=v4.5.AssemblyAttribute.cs
+/Users/Em/Projects/DepartmentManager/DepartmentManager/bin/Debug/DepartmentManager.exe.mdb
+/Users/Em/Projects/DepartmentManager/DepartmentManager/bin/Debug/DepartmentManager.exe
+/Users/Em/Projects/DepartmentManager/DepartmentManager/obj/x86/Debug/DepartmentManager.exe
+/Users/Em/Projects/DepartmentManager/DepartmentManager/obj/x86/Debug/DepartmentManager.exe.mdb
